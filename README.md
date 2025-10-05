@@ -9,8 +9,6 @@ Ce module offre une expérience d’inscription moderne, rapide et fluide — pa
 
 ![image](https://i.imgur.com/97c4B36.jpeg)
 
----
-
 ## 🚀 Fonctionnalités actuelles
 
 ✅ Recherche automatique d’entreprise depuis une base de données publique française
@@ -22,8 +20,6 @@ Ce module offre une expérience d’inscription moderne, rapide et fluide — pa
 ✅ Aucun paramétrage requis — le module fonctionne dès l’installation
 ✅ Fonctionne uniquement sur la page d’inscription (register)
 
----
-
 ## 🧩 Fonctionnalités prévues
 
 🔹 Autocomplétion des **adresses** (rue, code postal, ville)
@@ -31,15 +27,12 @@ Ce module offre une expérience d’inscription moderne, rapide et fluide — pa
 🔹 Options de personnalisation dans l’administration (nombre de résultats, apparence, etc.)
 🔹 Intégration possible sur d’autres formulaires WHMCS (édition, etc.)
 
----
-
 ## ⚙️ Installation
 
 ### 📦 Étape unique :
 
 Déposez simplement le fichier du module dans le dossier suivant :
 
-```
 /includes/hooks/
 ```
 
@@ -54,8 +47,6 @@ Le module s’activera automatiquement sur la page d’inscription WHMCS.
 
 Aucune configuration, aucun template à modifier.
 
----
-
 ## 🧠 Fonctionnement
 
 Lorsqu’un utilisateur saisit le nom d’une société :
@@ -63,8 +54,6 @@ Lorsqu’un utilisateur saisit le nom d’une société :
 1. Le module recherche automatiquement les entreprises correspondantes
 2. L’utilisateur sélectionne une entreprise
 3. Les champs **nom de société** et **numéro de TVA** se remplissent automatiquement
-
----
 
 ## 💻 Compatibilité
 
@@ -76,22 +65,16 @@ Lorsqu’un utilisateur saisit le nom d’une société :
 | **Dépendances externes** | Aucune                           |
 | **Clé API requise**      | ❌ Non                            |
 
----
-
 ## 🔒 Conformité et sécurité
 
 Toutes les données proviennent de sources publiques légales et sont traitées côté client.
 Aucune donnée personnelle n’est collectée ni transmise à des tiers.
-
----
 
 ## 🧾 Licence
 
 Ce module est distribué sous **licence libre d’utilisation** pour tous projets WHMCS.
 Crédit : **OSIOM AGENCY — Agence digitale**
 🌐 [https://osiom.fr](https://osiom.fr)
-
----
 
 ## 💬 Support
 
