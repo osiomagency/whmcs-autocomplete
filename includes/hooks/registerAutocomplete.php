@@ -1,74 +1,15 @@
-<?php //0059b
-// 14.0 83
-// 
-// IONCUBE ONLINE ENCODER EVALUATION
-// THIS FILE IS LICENSED TO BE USED FOR ENCODER TESTING
-// PURPOSES ONLY AND SHOULD NOT BE DISTRIBUTED
-// 
-if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
+<?php
 
-?>
-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
-nW0=
+if (!defined('WHMCS')) die('You cannot access this file directly.');
+
+function company_autocomplete($vars) {
+    if ($vars['filename'] === 'register') {
+        return <<<HTML
+        <script>
+        function _0x1081(){const _0x10f2eb=['inputTaxId','company_results','\x20<small\x20class=\x22text-muted\x22>','367266LxxyUk','transform','value','https://suggestions.pappers.fr/v2?q=','mt-2','block','ville','scale(1.015)','2510952vuiAxj','<div\x20class=\x22d-flex\x20justify-content-between\x20align-items-start\x22><div><h6\x20class=\x22fw-semibold\x20mb-1\x22>','innerHTML','contains','nom_entreprise','Erreur\x20API\x20Pappers:','39eNPMfJ','click','parentElement','#fff','</small></h6><p\x20class=\x22text-muted\x20mb-1\x20small\x22>','forme_juridique','<p\x20class=\x22text-muted\x20px-2\x20py-2\x20mb-0\x22>Aucune\x20entreprise\x20trouvée.</p>','length','Radié','boxShadow','&longueur=5&cibles=nom_entreprise','0\x201px\x203px\x20rgba(0,0,0,0.05)','mouseleave','appendChild','DOMContentLoaded','1790663CCBrYD','className','siege','siren_formate','div','14248eueoEN','style','cursor:\x20pointer;transition:\x20all\x200.2s\x20ease-in-out;','trim','0\x203px\x208px\x20rgba(0,0,0,0.1)','none','Non\x20disponible','code_postal','numero_tva_intracommunautaire','15285648uzvvXp','display','scale(1)','Erreur\x20TVA:','inputCompanyName','cssText','siren','error','https://api.pappers.fr/v2/entreprise/tva_intracommunautaire?siren=','target','1823388WBLEXE','adresse_ligne_1','getElementById','createElement','986400AGGjJY','backgroundColor','statut_rcs','addEventListener','</p><p\x20class=\x22text-muted\x20mb-0\x20small\x22>SIREN\x20:\x20'];_0x1081=function(){return _0x10f2eb;};return _0x1081();}function _0xeac8(_0x58ef87,_0x284939){const _0x108147=_0x1081();return _0xeac8=function(_0xeac819,_0x1956cd){_0xeac819=_0xeac819-0xe5;let _0x59faed=_0x108147[_0xeac819];return _0x59faed;},_0xeac8(_0x58ef87,_0x284939);}const _0x44ba54=_0xeac8;(function(_0x424bf,_0x22f160){const _0x3b474e=_0xeac8,_0xeba4c0=_0x424bf();while(!![]){try{const _0xf3b22e=-parseInt(_0x3b474e(0x117))/0x1+-parseInt(_0x3b474e(0xf8))/0x2*(parseInt(_0x3b474e(0x125))/0x3)+-parseInt(_0x3b474e(0x11f))/0x4+parseInt(_0x3b474e(0x10f))/0x5+-parseInt(_0x3b474e(0x10b))/0x6+-parseInt(_0x3b474e(0xf3))/0x7+parseInt(_0x3b474e(0x101))/0x8;if(_0xf3b22e===_0x22f160)break;else _0xeba4c0['push'](_0xeba4c0['shift']());}catch(_0x1df683){_0xeba4c0['push'](_0xeba4c0['shift']());}}}(_0x1081,0x70777),document[_0x44ba54(0x112)](_0x44ba54(0xf2),function(){const _0x500a83=_0x44ba54,_0x8ebd8=document[_0x500a83(0x10d)](_0x500a83(0x105)),_0x3dea4e=document[_0x500a83(0x10d)](_0x500a83(0x114)),_0x567dd6=document[_0x500a83(0x10e)](_0x500a83(0xf7));async function _0x46ec97(_0xcf9b03){const _0x3d513a=_0x500a83;try{const _0x4e3f47=await fetch(_0x3d513a(0x109)+_0xcf9b03);return(await _0x4e3f47['json']())[_0x3d513a(0x100)]||'';}catch(_0x1f0953){return console[_0x3d513a(0x108)](_0x3d513a(0x104),_0x1f0953),'';}}function _0x245ff8(){const _0x2ffd42=_0x500a83;_0x567dd6[_0x2ffd42(0x121)]='',_0x567dd6[_0x2ffd42(0xf9)][_0x2ffd42(0x102)]=_0x2ffd42(0xfd);}let _0x15d051;_0x567dd6['id']=_0x500a83(0x115),_0x567dd6[_0x500a83(0xf4)]=_0x500a83(0x11b),_0x567dd6[_0x500a83(0xf9)][_0x500a83(0x106)]='display:\x20none;margin-top:\x208px;',_0x8ebd8[_0x500a83(0xe6)][_0x500a83(0xf1)](_0x567dd6),_0x8ebd8['addEventListener']('input',function(){const _0x29809a=_0x500a83,_0x144409=_0x8ebd8[_0x29809a(0x119)][_0x29809a(0xfb)]();clearTimeout(_0x15d051),_0x15d051=setTimeout(async()=>{if(_0x144409['length']<0x2)return void _0x245ff8();const _0xe7a5ba=await async function(_0xc33642){const _0x1fbe40=_0xeac8;if(!_0xc33642||_0xc33642[_0x1fbe40(0xeb)]<0x2)return[];try{const _0xa524df=await fetch(_0x1fbe40(0x11a)+encodeURIComponent(_0xc33642)+_0x1fbe40(0xee));return(await _0xa524df['json']())['resultats_nom_entreprise']||[];}catch(_0x54102f){return console[_0x1fbe40(0x108)](_0x1fbe40(0x124),_0x54102f),[];}}(_0x144409);!async function(_0x4de085){const _0x592013=_0xeac8;if(_0x567dd6[_0x592013(0x121)]='',0x0===_0x4de085['length'])return _0x567dd6['innerHTML']=_0x592013(0xea),void(_0x567dd6[_0x592013(0xf9)]['display']=_0x592013(0x11c));for(const _0x573b50 of _0x4de085){if(_0x592013(0xec)===_0x573b50[_0x592013(0x111)])continue;const _0x2d66f4=await _0x46ec97(_0x573b50[_0x592013(0x107)]),_0x1685f0=document[_0x592013(0x10e)](_0x592013(0xf7));_0x1685f0[_0x592013(0xf4)]='p-3\x20border\x20rounded\x20shadow-sm\x20bg-white\x20mb-2\x20company-card',_0x1685f0[_0x592013(0xf9)]['cssText']=_0x592013(0xfa),_0x1685f0[_0x592013(0x121)]=_0x592013(0x120)+_0x573b50[_0x592013(0x123)]+_0x592013(0x116)+(_0x573b50[_0x592013(0xe9)]||'')+_0x592013(0xe8)+(_0x573b50['siege']?.[_0x592013(0x10c)]||'')+',\x20'+(_0x573b50[_0x592013(0xf5)]?.[_0x592013(0xff)]||'')+'\x20'+(_0x573b50[_0x592013(0xf5)]?.[_0x592013(0x11d)]||'')+_0x592013(0x113)+_0x573b50[_0x592013(0xf6)]+'\x20/\x20TVA\x20:\x20'+(_0x2d66f4||_0x592013(0xfe))+'</p></div></div>',_0x1685f0[_0x592013(0x112)]('mouseenter',()=>{const _0x6c5f7c=_0x592013;_0x1685f0['style'][_0x6c5f7c(0x110)]='#e9f4ff',_0x1685f0[_0x6c5f7c(0xf9)][_0x6c5f7c(0x118)]=_0x6c5f7c(0x11e),_0x1685f0[_0x6c5f7c(0xf9)]['boxShadow']=_0x6c5f7c(0xfc);}),_0x1685f0[_0x592013(0x112)](_0x592013(0xf0),()=>{const _0x1fa2ec=_0x592013;_0x1685f0[_0x1fa2ec(0xf9)][_0x1fa2ec(0x110)]=_0x1fa2ec(0xe7),_0x1685f0[_0x1fa2ec(0xf9)][_0x1fa2ec(0x118)]=_0x1fa2ec(0x103),_0x1685f0[_0x1fa2ec(0xf9)][_0x1fa2ec(0xed)]=_0x1fa2ec(0xef);}),_0x1685f0[_0x592013(0x112)](_0x592013(0xe5),()=>{const _0x264454=_0x592013;_0x8ebd8[_0x264454(0x119)]=_0x573b50[_0x264454(0x123)],_0x2d66f4&&_0x3dea4e&&(_0x3dea4e['value']=_0x2d66f4),_0x245ff8();}),_0x1685f0['addEventListener'](_0x592013(0xe5),()=>{const _0x5d88d3=_0x592013;_0x8ebd8[_0x5d88d3(0x119)]=_0x573b50['nom_entreprise'],_0x2d66f4&&_0x3dea4e&&(_0x3dea4e['value']=_0x2d66f4);}),_0x567dd6[_0x592013(0xf1)](_0x1685f0);}_0x567dd6[_0x592013(0xf9)][_0x592013(0x102)]=_0x592013(0x11c);}(_0xe7a5ba);},0x12c);}),document[_0x500a83(0x112)](_0x500a83(0xe5),_0x341e98=>{const _0xb5c863=_0x500a83;_0x567dd6[_0xb5c863(0x122)](_0x341e98['target'])||_0x341e98[_0xb5c863(0x10a)]===_0x8ebd8||_0x245ff8();});}));
+        </script>
+        HTML;
+    }
+}
+
+add_hook('ClientAreaFooterOutput', 1, 'company_autocomplete');
